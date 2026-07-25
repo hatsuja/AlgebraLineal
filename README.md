@@ -22,7 +22,7 @@ Para facilitar la navegación, los contenidos se encuentran organizados de la si
 
 ## 📂 Contenidos por Unidad
 
-### [Unidad 1](AlgebraLineal/unidad1)
+### [Unidad 1](https://github.com/hatsuja/AlgebraLineal/tree/main/Unidad1)
 * **[Algortimo](programacion/unidad1/Algoritmo.md)**
 
 * **[Lenguajes de Programación](programacion/unidad1/LenguajedeProgramacion.md)**
