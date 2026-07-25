@@ -1,39 +1,39 @@
-# 📘 Portafolio Digital: Teoría de la Programación
+# Generación  Infinita con Matrices 
 
-Este espacio contiene el desarrollo teórico y práctico 
+Este proyecto aplica conceptos fundamentales de **Álgebra Lineal** (matrices de estado, transformaciones lineales y escalamiento posicional) para construir un generador dinámico de mapas tridimensionales con trampas en **Roblox Studio**, junto con una validación analítica bidimensional en **Google Colab**.
 
 ---
 
-## 📂 Contenidos por Unidad
+## 🛠️ Acceso al Código Fuente
 
-### [Unidad 1](programacion/unidad1)
-* **[Algortimo](programacion/unidad1/Algoritmo.md):**
->Introducción a la resolución de problemas, programación en bloques, pseudocódigo y diagramas de flujo
+[![Lua Code](https://img.shields.io/badge/Código_en_Roblox-Lua-blue?style=for-the-badge&logo=lua&logoColor=white)](./generacion.lua)
+[![Python Code](https://img.shields.io/badge/Código_en_Colab-Python-green?style=for-the-badge&logo=python&logoColor=white)](./generacion.py)
 
-* **[Lenguajes de Programación](programacion/unidad1/LenguajedeProgramacion.md):**
->Conceptos generales y clasificación de los lenguajes
+---
 
-* **[Lenguaje C](programacion/unidad1/LenguajeC.md):**
->Sintaxis básica y aplicaciones del lenguaje C
+## 🖥️ Demostración del Sistema
 
-* **[Ejercicios](programacion/unidad1/EjercicosPracticos.md):**
->Ejercios Realizados en la Unidad
+### Roblox Studio
+Cuando el avatar supera el bloque número 20, el algoritmo probabilístico empieza a intercalar celdas con estado de trampa (rojas):
 
-* **[Reflexción](programacion/unidad1/Reflexion.md):**
->
 
-### [Unidad 2](programacion/unidad2)
-* **[Estructuras Condicionales](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/EstructurasCondicionales.md):**
->Toma de decisiones en el flujo de un programa mediante bifurcaciones lógicas
 
-* **[Estructuras Repetitivas](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/EstructurasRepetitivas.md):**
->Optimización y automatización de procesos mediante bucles e iteraciones infinitas o controladas
 
-* **[Ejercicio Práctico](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/EjercicioPractico.md):**
->Caso de estudio e implementación de algoritmos aplicando lógica condicional y cíclica
 
-* **[Reflexión Crítica](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/Reflexion2.md):**
->Análisis analítico sobre el aprendizaje, asimilación y dificultades de las estructuras de control
+https://github.com/user-attachments/assets/8209c4ad-27ab-4309-8767-f4b6db325a91
 
-### Unidad 3
-* *(Próximamente)* ---
+
+
+
+
+
+
+
+### Google Colab 
+Proyección cartesiana bidimensional que demuestra la correcta distribución de los bloques
+
+<img width="1284" height="448" alt="Captura desde 2026-05-20 16-56-37" src="https://github.com/user-attachments/assets/792ee8b5-be78-4a44-96b7-ff555dd257a1" />
+:
+
+
+---
