@@ -3,7 +3,7 @@
 # <p align="center"> Universidad Nacional De Loja</p>
 
 
-## 🏫 Información Institucional
+# 🏫 Información Institucional
 
 * **Institución:** Universidad Nacional de Loja
 * **Facultad:** Energía, las Industrias y los Recursos Naturales no Renovables
@@ -19,9 +19,6 @@ Este espacio ha sido diseñado para documentar el proceso y las evidencias prác
 
 ---
 
-## 📂 Estructura del Repositorio
-
-Para facilitar la navegación, los contenidos se encuentran organizados de la siguiente manera:
 
 ## 📂 Contenidos por Unidad
 
@@ -35,13 +32,9 @@ Para facilitar la navegación, los contenidos se encuentran organizados de la si
 
 
 ### [Unidad 2](AlgebraLineal/unidad2)
-* **[Estructuras Condicionales](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/EstructurasCondicionales.md)**
 
-* **[Estructuras Repetitivas](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/EstructurasRepetitivas.md)**
+* **[Phyton](https://github.com/hatsuja/AlgebraLineal/blob/main/Unidad2/regresionLineanl.py)**
 
-* **[Ejercicio Práctico](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/EjercicioPractico.md)**
-
-* **[Reflexión Crítica](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/Reflexion2.md)**
 
 ### [Unidad 3](AlgebraLinea3/unidad3)
 
