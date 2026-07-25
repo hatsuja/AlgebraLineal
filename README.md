@@ -2,11 +2,6 @@
 
 # <p align="center"> Universidad Nacional De Loja</p>
 
-# 💻 Proyectos de Unidad 
-
-Este espacio ha sido diseñado para documentar el proceso y las evidencias prácticas desarrolladas en cada unidad.
-
----
 
 ## 🏫 Información Institucional
 
@@ -15,7 +10,15 @@ Este espacio ha sido diseñado para documentar el proceso y las evidencias prác
 * **Carrera:** Computación
 * **Asignatura:** Algebra Lineal
 * **Alumno:** Juan Pablo Jumbo Orellana
-  
+
+---
+
+# 💻 Proyectos de Unidad 
+
+Este espacio ha sido diseñado para documentar el proceso y las evidencias prácticas desarrolladas en cada unidad.
+
+---
+
 ## 📂 Estructura del Repositorio
 
 Para facilitar la navegación, los contenidos se encuentran organizados de la siguiente manera:
