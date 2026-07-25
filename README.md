@@ -23,16 +23,13 @@ Para facilitar la navegación, los contenidos se encuentran organizados de la si
 ## 📂 Contenidos por Unidad
 
 ### [Unidad 1](https://github.com/hatsuja/AlgebraLineal/tree/main/Unidad1)
-* **[Algortimo](programacion/unidad1/Algoritmo.md)**
 
-* **[Lenguajes de Programación](programacion/unidad1/LenguajedeProgramacion.md)**
+* **[GeneracionLineal](https://github.com/hatsuja/AlgebraLineal/blob/main/Unidad1/GeneracionLineal.md)**
 
-* **[Lenguaje C](programacion/unidad1/LenguajeC.md)**
+* **[Roblox](https://github.com/hatsuja/AlgebraLineal/blob/main/Unidad1/generacion.lua)**
 
-* **[Ejercicios](programacion/unidad1/EjercicosPracticos.md)**
+* **[Phyton](https://github.com/hatsuja/AlgebraLineal/blob/main/Unidad1/generacion.py)**
 
-
-* **[Reflexción](programacion/unidad1/Reflexion.md)**
 
 ### [Unidad 2](AlgebraLineal/unidad2)
 * **[Estructuras Condicionales](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad2/EstructurasCondicionales.md)**
