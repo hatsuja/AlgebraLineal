@@ -38,8 +38,7 @@ Este espacio ha sido diseñado para documentar el proceso y las evidencias prác
 
 ### [Unidad 3](AlgebraLinea3/unidad3)
 
-* **[Programación Modular](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad3/Modularidad.md)**
+* **[BusquedaVectoria](https://github.com/hatsuja/AlgebraLineal/blob/main/Unidad3/busqueda_vectorial.py)**
 
-* **[Estructuras de datos estáticas](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad3/EstructurasDeDatos.md)**
+* **[Embeding](https://github.com/hatsuja/AlgebraLineal/blob/main/Unidad3/embeding.py)**
 
-* **[Reflexión Crítica](https://github.com/hatsuja/PortafolioDigitalTeoriaProgramacion/blob/main/programacion/unidad3/Reflexi%C3%B3n3.md)**
