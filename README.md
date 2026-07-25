@@ -14,5 +14,4 @@ Este espacio ha sido diseñado para documentar el proceso y las evidencias prác
 * **Facultad:** Energía, las Industrias y los Recursos Naturales no Renovables
 * **Carrera:** Computación
 * **Asignatura:** Algebra Lineal
-* **Integrantes:**
-  * Juan Pablo Jumbo Orellana
+* **Alumno:** Juan Pablo Jumbo Orellana
